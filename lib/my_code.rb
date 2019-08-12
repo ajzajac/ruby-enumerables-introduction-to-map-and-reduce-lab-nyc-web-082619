@@ -23,3 +23,6 @@ def map_to_double(array)
   end
  newarray
 end
+
+def map_to_square(array)
+  
