@@ -7,5 +7,5 @@ def map_to_negativize(array)
     newarray << array[i] * -1
     i += 1
   end
- array
+ newarray
 end
