@@ -9,3 +9,6 @@ def map_to_negativize(array)
   end
  newarray
 end
+
+def map_to_no_change(array)
+  
