@@ -25,4 +25,11 @@ def map_to_double(array)
 end
 
 def map_to_square(array)
-  
+   i = 0 
+  newarray = []
+  while i < array.length do 
+    newarray << array[i]**
+    i += 1
+  end
+ newarray
+end
