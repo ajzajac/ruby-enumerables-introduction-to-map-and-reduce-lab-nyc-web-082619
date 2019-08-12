@@ -11,4 +11,5 @@ def map_to_negativize(array)
 end
 
 def map_to_no_change(array)
-  
+  return array
+end
